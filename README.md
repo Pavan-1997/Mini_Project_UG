@@ -7,4 +7,4 @@ Industry  is a group of productive enterprises or organizations that produce or 
 We propose an Smart monitoring system using sensors.This monitors the internal parameters of the industry.The internal parameters that we considered are Temperature, Smoke, Fire, Light and Motion Detection.In addition to this , it sends notifications to smartphone and e-mail when any of the parameter crosses the threshold level.The industry officials can have a constant monitoring of the system if any of the parameter changes.The sensors are connected to Node MCU which is powered using power supply source and connected to the server using common WIFI .The  IOT platform which we are using is “BLYNK” , which is an open source application available on Android Play Store and AppStore.
 
 Attached are the code and reports for my project.
-       
+        
